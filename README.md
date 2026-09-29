@@ -1,61 +1,117 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<div align="center">
+  
+# DIRGANTARA FLIGHT
+Website maskapai penerbangan terpercaya yang mengantarkan Anda ke seluruh penjuru Indonesia dengan nyaman dan aman.
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<img width="958" height="1600" alt="image" src="https://github.com/user-attachments/assets/3c166815-6e7f-45d1-ba90-ee958b7c2ed3" />
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<br>
+<br>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## ⭐ Fitur Unggulan Dirgantara Flight
+</div>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### 👥 User 
 
-## Learning Laravel
+- Pengalaman terbaik untuk perjalanan Anda <br>
+- Dapatkan harga terbaik dengan sistem pembayaran yang fleksibel <br>
+- Standar keamanan internasional untuk kenyamanan Anda <br>
+- Komitmen on-time performance terbaik di kelasnya <br>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<img width="1240" height="1202" alt="Screenshot_29-9-2026_20019_127 0 0 1" src="https://github.com/user-attachments/assets/95757ace-e1a8-4494-8e59-12698740b7b4" />
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+<br>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### 👤 Admin
+- Memantau akun para _admin_ dan _user_ 
+- Memantau pesanan tiket _user_
+- Memantau jadwal keberangkatan yang tersedia
+- Dapat mengelola kota keberangkatan dan tujuan  
 
-## Laravel Sponsors
+<img width="1240" height="1558" alt="image" src="https://github.com/user-attachments/assets/626dd85a-bfe3-4b60-bbea-2995c5ae795a" />
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-### Premium Partners
+<br>
 
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
+<div align="center"> 
+  
+## ❓ Cara menggunakan: 
 
-## Contributing
+</div>
+<br>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Website ini dapat diakses secara _local_. Pastikan prasyarat berikut telah terinstal di sistem Anda:
 
-## Code of Conduct
+| Komponen | Versi | Link Download |
+|----------|-------|---------------|
+| **Laragon** / XAMPP | Latest | [laragon.org](https://laragon.org/download/) / [apachefriends.org](https://www.apachefriends.org) |
+| **Git** | Latest | [git-scm.com](https://git-scm.com/downloads) |
+| **Laravel** | `v12` | [laravel.com/docs/12.x](https://laravel.com/docs/12.x) |
+| **PHP** | `v8.3.21` | [php.net](https://www.php.net/downloads) |
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<br>
 
-## Security Vulnerabilities
+ 💡 **Catatan:** 
+> - Disarankan menggunakan **Laragon** untuk pengalaman pengembangan yang lebih ringan dan modern
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+<br>
 
-## License
+### Cara menjalankan website di local:
+#### 1. Instalasi
+- Buka terminal Laragon (disarankan), atau terminal lainnya.
+- Arahkan ke folder yang akan Anda gunakan untuk menyimpan folder, contoh: ```cd C:\laragon\www```
+- Jalankan perintah <i>clone</i>: ```git clone https://github.com/Makheswara-1606/airline <br>```
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+#### 2. _Run website:_
+Setelah proses _clone_ selesai, Anda dapat me-_running_ website tersebut dengan langkah berikut:
+- Buka terminal Laragon (disarankan), atau terminal lainnya.
+- Arahakan ke folder hasil _clone_, contoh: ```cd C:\laragon\www\airline```
+- Jalankan perintah ```npm run dev```
+- Buka tab baru pada terminal, lalu jalankan lagi perintah ```php artisan serve```
+- Setelah itu, Anda dapat membuka link yang seperti ini ``` INFO  Server running on [http://127.0.0.1:8000]``` dengan CTRL + Click
+
+<br>
+
+💡 **Catatan:** 
+> - Seringkali ada error saat pertama kali di _run_, maka disarankan untuk jalankan ```install composer``` terlebih dahulu.
+
+<br>
+
+<div align="center">
+
+  ## 📂 Struktur Folder
+  
+</div>
+
+```text
+📂 app                  
+📂 bootstrap       
+📂 config          
+📂 database             
+📂 public          
+📂 resources            
+📂 routes               
+📂 storage           
+📂 tests             
+📄 .editorconfig     
+📄 .env.example      
+📄 .gitattributes    
+📄 .gitignore        
+📄 README.md         
+📄 artisan           
+📄 composer.json     
+📄 composer.lock     
+📄 package-lock.json 
+📄 package.json      
+📄 phpunit.xml       
+📄 postcss.config.js 
+📄 tailwind.config.js
+📄 vite.config.js    
+```
+
+<br>
+
+### 💡 Catatan:
+> - Folder `vendor/`, `node_modules/`, dan file `.env` **tidak boleh di-upload ke GitHub**. Pastikan file `.gitignore` sudah mengaturnya.
+> - Untuk menjalankan proyek, copy `.env.example` menjadi `.env`, lalu jalankan `php artisan key:generate`.
